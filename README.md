@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px", </h1>
 
 ### About Me
-- 👩‍💻 I'm a Computer and Data Science Engineering Student
+- 👩‍💻 I'm a CS Data Science Engineering Student
 - 📚 I’m doing my B.Tech from Adi Shankara Institute of Engineering and Technology
 
 ---
